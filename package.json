@@ -1,0 +1,27 @@
+{
+  "name": "npmtest",
+  "version": "0.1.0",
+  "description": "Some NPM test",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achimpfeiffer/parsing.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Achim Pfeiffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achimpfeiffer/parsing/issues"
+  },
+  "homepage": "https://github.com/achimpfeiffer/parsing#readme"
+}
